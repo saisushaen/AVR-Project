@@ -19,3 +19,11 @@ Week 1:
 
 Week 3 - done with Office rooms , staff rooms with furnitures and walls , texture for labs .
           
+        Done with the doors , handles , textures for wardrobes , ceilings and space for lighting.
+        Done with the windows .
+        Done with the textures for windows , created perfect area for windows in the wall . 
+        Done with the railings.
+        Done with the teachers table , and diaz.
+        Done with the pantry room.
+        Done with the walls .
+        
