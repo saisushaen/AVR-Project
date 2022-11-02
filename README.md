@@ -16,3 +16,6 @@ Week 1:
     4) the yellow light represents wash-rooms and server-rooms.
    
 -> Done with staff room,server room,office room,labs(both)
+
+Week 3 - done with Office rooms , staff rooms with furnitures and walls , texture for labs .
+          
